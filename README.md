@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# calculator
+# Calculator
 
 ## Project setup
 ```
